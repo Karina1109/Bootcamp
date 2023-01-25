@@ -1,2 +1,3 @@
+merge conflict with main branch
 content to merge with second branch
 content for merge conflict
